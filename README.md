@@ -1,4 +1,4 @@
-# Twitter_Sentimental_Analysis
+# Twitter_Sentiment_Analysis
 Mini Project
 
 ### Link: [https://tweetilyse.herokuapp.com/](https://tweetlyise.herokuapp.com/)
