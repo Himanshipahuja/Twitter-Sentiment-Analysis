@@ -16,5 +16,5 @@ pip install /PackageName/
 ## Usage
 
 ```python
-python3 app.py 
+py3 app.py 
 #Go to the main directory and run the above app
